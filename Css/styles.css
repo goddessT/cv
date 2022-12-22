@@ -1,0 +1,21 @@
+           body {
+                    background-color: #ececec;
+                    
+
+
+
+           }
+           
+           
+           
+           
+           hr {
+                background-color: none;
+                border: 10px dotted rgb(100, 100, 100);
+                border-left: none;
+                border-right: none;
+                border-bottom: none;
+                width: 5%;
+                
+
+            }
