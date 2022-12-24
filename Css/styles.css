@@ -21,7 +21,8 @@
            hr {
                 background-color: none;
                 border: none;
-                border-top: 5px dashed #02233e; 
+                border-top: 5px dashed #02233e;
+                width: auto;
                 
                 
                
@@ -102,7 +103,7 @@
         .text2 {
             position: absolute;
             top: 165px;
-            left: 140px;
+            left: 120px;
             font-size: 50px;
             font-style: italic;
             
@@ -272,8 +273,9 @@
 
             }
 
-            table, td {
-                border: 1px solid;
+            table, td, {
+                border: 5px solid;
+        
 
 
 
