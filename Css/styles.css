@@ -1,5 +1,6 @@
            body {
                     background-color: #ececec;
+                    margin: 0;
                     
 
 
@@ -11,12 +12,22 @@
            
            hr {
                 background-color: none;
-                border: 10px dotted rgb(100, 100, 100);
-                border-left: none;
-                border-right: none;
-                border-bottom: none;
-                width: 5%;
+                border: none;
+                border-top: 5px dashed #02233e; 
                 
+                
+               
+                
+                
+
+            }
+
+            h3 {
+                color: #02233e;
+                text-align: center;
+                font-size: 30px;
+
+
 
             }
             .parent {
@@ -29,6 +40,7 @@
                 position: relative;
                 top: 0;
                 left: 0;
+               
 
 
 
@@ -56,3 +68,208 @@
 
 
             }
+        
+            .image5 {
+            position: absolute;
+            top: 0px;
+            left: 0px;
+
+
+        }
+
+        .text1 {
+            position: absolute;
+            top: 75px;
+            left: 100px;
+            font-size: 70px;
+
+        }
+        .text2 {
+            position: absolute;
+            top: 165px;
+            left: 140px;
+            font-size: 50px;
+            font-style: italic;
+        }
+        .text3 {
+            position: absolute;
+            top: 375px;
+            left: 670px;
+            font-size: 37px;
+
+
+
+
+        }
+
+           
+             .button1 {
+                position: absolute;
+                top: 345px;
+                left: 50px;
+                width: 350px;
+                height: 80px;
+                font-size: 30px;
+                background-color: #6fbdd8;
+                color: #02233e;
+                cursor: pointer;
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                border-radius: 10% 10% 10% 10%;
+                
+
+
+            }
+            .button1:hover {
+                background-color: lightgray;
+
+
+
+            }
+            .button2 {
+                position: absolute;
+                top: 440px;
+                left: 50px;
+                width: 350px;
+                height: 80px;
+                font-size: 30px;
+                background-color: #6fbdd8;
+                color: #02233e;
+                cursor: pointer;
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                border-radius: 10% 10% 10% 10%;
+
+
+            }
+            .button2:hover {
+                background-color: lightgray;
+
+
+
+            }
+            .button3 {
+                position: absolute;
+                top: 530px;
+                left: 50px;
+                width: 350px;
+                height: 80px;
+                font-size: 30px;
+                background-color: #6fbdd8;
+                color: #02233e;
+                cursor: pointer;
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                border-radius: 10% 10% 10% 10%;
+
+
+            }
+            .button3:hover {
+                background-color: lightgray;
+
+
+
+            }
+            .button4 {
+                position: absolute;
+                top: 620px;
+                left: 50px;
+                width: 350px;
+                height: 80px;
+                font-size: 30px;
+                background-color: #6fbdd8;
+                color: #02233e;
+                cursor: pointer;
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                border-radius: 10% 10% 10% 10%;
+
+
+            }
+            .button4:hover {
+                background-color: lightgray;
+
+
+
+            }
+            .button5 {
+                position: absolute;
+                top: 710px;
+                left: 50px;
+                width: 350px;
+                height: 80px;
+                font-size: 30px;
+                background-color: #6fbdd8;
+                color: #02233e;
+                cursor: pointer;
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                border-radius: 10% 10% 10% 10%;
+
+
+            }
+            .button5:hover {
+                background-color: lightgray;
+
+
+
+            }
+            .button6 {
+                position: absolute;
+                top: 800px;
+                left: 50px;
+                width: 350px;
+                height: 80px;
+                font-size: 30px;
+                background-color: #6fbdd8;
+                color: #02233e;
+                cursor: pointer;
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                border-radius: 10% 10% 10% 10%;
+
+
+            }
+            .button6:hover {
+                background-color: lightgray;
+
+
+
+            }
+            
+            
+
+
+                        
+            *{
+                padding: 0px;
+                margin: 0;
+                box-sizing: border-box;
+
+
+            }
+            
+            #square {
+                height: 600px;
+                width: 600px;
+                background: rgb(209, 208, 208);
+                border: 3px #02233e;
+                margin-left: 0px;
+                
+                
+
+
+            }
+
+            table, td {
+                border: 1px solid;
+
+
+
+            }
+
+            .class {
+                margin-left: auto;
+                margin-right: auto;
+
+
+            }
+
+
+
+          
+     
